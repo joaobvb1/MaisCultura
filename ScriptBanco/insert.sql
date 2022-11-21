@@ -22,7 +22,16 @@ INSERT INTO categoria VALUES
 (8, "Artes Plásticas"),
 (9, "Culinária"),
 (10, "Esporte"),
-(11, "Outros");
+(11, "Palestra"),
+(12, "Hip-hop"),
+(13, "Games"),
+(14, "Conferência"),
+(15, "Religião"),
+(16, "Evento beneficente"),
+(17, "Campeonato"),
+(18, "Feira"),
+(19, "Entreterimento"),
+(20, "Outros");
 
 INSERT INTO lista_motivo VALUES
 (1, "Má organização"),
